@@ -41,7 +41,7 @@ main.py
 
 ##  Tech Stack
 
-- **Python ** 
+- **Python**
 - **OOP Principles** 
 
 ##  Code Walkthrough
