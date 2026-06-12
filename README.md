@@ -1,13 +1,13 @@
 # Student Management System
 
-A modern, interactive **Student Record Management System** built with Python's Object-Oriented Programming paradigm.
+A modern, interactive **Student Record Management System** built with Python's Object-Oriented Programming.
 
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![OOP](https://img.shields.io/badge/OOP-Concept-success?style=for-the-badge)
 
 ##  Overview
 
-This project demonstrates practical application of OOP concepts to manage student records through a command-line interface. Built from scratch to help understand real-world programming patterns.
+This mini project demonstrates practical application of OOP concepts to manage student records through a command-line interface. Built from scratch to help understand real-world programming patterns.
 
 ## Features
 
