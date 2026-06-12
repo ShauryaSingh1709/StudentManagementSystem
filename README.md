@@ -145,4 +145,4 @@ This project is for educational purposes. Use freely for learning!
 
 ---
 
-Made with ❤️ by Shaurya | Happy Coding! 🐍
+Made by Shaurya | Happy Coding! 
