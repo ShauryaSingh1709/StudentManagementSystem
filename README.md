@@ -2,7 +2,7 @@
 
 A modern, interactive **Student Record Management System** built with Python's Object-Oriented Programming paradigm.
 
-![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![OOP](https://img.shields.io/badge/OOP-Concept-success?style=for-the-badge)
 
 ##  Overview
